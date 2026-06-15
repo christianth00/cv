@@ -1,0 +1,6 @@
+{
+  "name": "Application Copilot",
+  "description": "End-to-end job application tracker and AI-powered CV/cover letter tailoring tool for tech and finance professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
